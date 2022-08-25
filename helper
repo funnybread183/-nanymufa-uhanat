@@ -1,2 +1,3 @@
 announce
-vpull 0,100
+cache 128394
+ipull 1,100
