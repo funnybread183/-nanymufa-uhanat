@@ -1,3 +1,4 @@
 announce
-cache a50
-ipull 47,59
+cache a80
+ipull 47,64
+vpull 0,6
