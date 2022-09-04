@@ -1,1 +1,4 @@
 announce
+cache aaa
+ipull 80,160
+vpull 0,25
