@@ -1,4 +1,3 @@
 announce
-cache aaa
-ipull 80,160
-vpull 0,25
+cache bbb
+ipull 200,230
