@@ -1,4 +1,3 @@
 announce
-cache bbbgcd
-ipull 0,40
-ipull 450,510
+cache bbbgcr
+ipull 900,1100
