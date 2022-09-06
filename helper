@@ -1,4 +1,3 @@
 announce
-cache bbbgwoo
-ipull 0,60
-ipull 1200,1400
+cache bbo
+ipull 1500,1800
